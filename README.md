@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Barmanbek</h1>
 <h3 align="center">Electrical and Elecronic, Software Engineer</h3>
-https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_gif2.gif
+<p><img align="center" src="https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_gif2.gif" alt="yemrebarmanbek" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yemrebarmanbek&label=Profile%20views&color=0e75b6&style=flat" alt="yemrebarmanbek" /> </p>
 
@@ -30,11 +30,13 @@ https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_gif2.gif
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yemrebarmanbek&" alt="yemrebarmanbek" /></p>
 
-https://user-images.githubusercontent.com/82896678/178833796-b4ab1362-2d29-4269-b328-3ad30e65d300.jpeg
 
-https://user-images.githubusercontent.com/82896678/195996900-952685b3-1f2b-46c3-ae6b-6923961f57a3.png
+<p><img align="center" src="https://user-images.githubusercontent.com/82896678/178833796-b4ab1362-2d29-4269-b328-3ad30e65d300.jpeg" alt="yemrebarmanbek" /></p>
 
-https://user-images.githubusercontent.com/82896678/222573848-c0a64041-fe40-4d34-a7a8-8077ee9480ab.png
+<p><img align="center" src="https://user-images.githubusercontent.com/82896678/195996900-952685b3-1f2b-46c3-ae6b-6923961f57a3.png" alt="yemrebarmanbek" /></p>
 
-https://user-images.githubusercontent.com/82896678/195997815-7e37867f-7242-4474-9a33-fa9b96157a2c.jpeg
+<p><img align="center" src="https://user-images.githubusercontent.com/82896678/222573848-c0a64041-fe40-4d34-a7a8-8077ee9480ab.png" alt="yemrebarmanbek" /></p>
+
+<p><img align="center" src="https://user-images.githubusercontent.com/82896678/195997815-7e37867f-7242-4474-9a33-fa9b96157a2c.jpeg" alt="yemrebarmanbek" /></p>
+
 
