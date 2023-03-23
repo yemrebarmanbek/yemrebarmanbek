@@ -30,6 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yemrebarmanbek&" alt="yemrebarmanbek" /></p>
 
+<p><img align="center" src="https://user-images.githubusercontent.com/82896678/227156853-ada76686-5112-4989-8c8d-285ebd406832.png" alt="yemrebarmanbek" /></p>
 
 <p><img align="center" src="https://user-images.githubusercontent.com/82896678/178833796-b4ab1362-2d29-4269-b328-3ad30e65d300.jpeg" alt="yemrebarmanbek" /></p>
 
@@ -38,5 +39,6 @@
 <p><img align="center" src="https://user-images.githubusercontent.com/82896678/222573848-c0a64041-fe40-4d34-a7a8-8077ee9480ab.png" alt="yemrebarmanbek" /></p>
 
 <p><img align="center" src="https://user-images.githubusercontent.com/82896678/195997815-7e37867f-7242-4474-9a33-fa9b96157a2c.jpeg" alt="yemrebarmanbek" /></p>
+
 
 
