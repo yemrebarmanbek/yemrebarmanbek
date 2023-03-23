@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Embedded System and C programming](https://github.com/yemrebarmanbek/Introductionto-Embedded-Systems-Software-and-Development-Environments)
 
-- 🌱 I’m currently learning **Embedded System Programming**
+- 🌱 I’m currently learning **Software, Embedded Programming, Data Science **
 
 - 💬 Ask me about **Embedded Programming, python , matlab analyses ,c# Back-End **
 
