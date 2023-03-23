@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Barmanbek</h1>
 <h3 align="center">Electrical and Elecronic, Software Engineer</h3>
-<p><img align="center" src="https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_gif2.gif" alt="yemrebarmanbek" /></p>
+<p><img align="center" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif" alt="yemrebarmanbek" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yemrebarmanbek&label=Profile%20views&color=0e75b6&style=flat" alt="yemrebarmanbek" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Embedded System Programming**
 
-- 💬 Ask me about **Embedded System, python , matlab analyses**
+- 💬 Ask me about **Embedded Programming, python , matlab analyses ,c# Back-End **
 
 - 📫 How to reach me **yemrebarmanbek@gmail.com**
 
